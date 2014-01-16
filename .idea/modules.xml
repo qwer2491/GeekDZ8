@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/AndroidVkSdk/AndroidVkSdk.iml" filepath="$USER_HOME$/AndroidVkSdk/AndroidVkSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeekHub8.iml" filepath="$PROJECT_DIR$/GeekHub8.iml" />
+      <module fileurl="file://$USER_HOME$/Andoid_SDK_x86_x64/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="$USER_HOME$/Andoid_SDK_x86_x64/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://$USER_HOME$/facebook-android-sdk-3.6.0/facebook/facebook.iml" filepath="$USER_HOME$/facebook-android-sdk-3.6.0/facebook/facebook.iml" />
+    </modules>
+  </component>
+</project>
+
